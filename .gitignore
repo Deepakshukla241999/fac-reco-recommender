@@ -1,0 +1,3 @@
+virtualEnvironment/ 
+__pycache__/ 
+*.pyc 
